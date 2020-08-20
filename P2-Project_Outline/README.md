@@ -7,12 +7,23 @@ For this assignment, you will submit a high-level outline of your project. This 
 ## Submission Instructions
 
 ### Overview
-Include overview here
+This is a grocery shopping app. This app allows you to make grocery list to specific or multiple locations. Also the user will be able to leave a review about their experience at each location. 
+
 ### Features
-Include Features here
+User Login: Users can login and create a personal account.
+Search: Users can search location,grocery list, and reviews by rating/text.
+Create Content: Users will be able to create grocery list and reviews.
+Location: You will be able to see where the location is located using GPS.
+
 ### Technologies
-Include Technologies here
+1. Java
+2. Springboot
+3. MySQL
+4. Javascript
+5. React
+
 ### What I'll Have to Learn
-Include what you will need to learn here
+I will need to learn how intergrate Springboot and React. Along with link public API data to my application.
+
 ### Project Tracker
-Link to your Trello board here
+https://trello.com/b/UdkfKZ1c/launchcode
