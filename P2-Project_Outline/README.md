@@ -7,16 +7,15 @@ For this assignment, you will submit a high-level outline of your project. This 
 ## Submission Instructions
 
 ### Overview
-This is a grocery shopping app. This app allows you to make grocery list to specific or multiple locations. Also the user will be able to leave a review about their experience at each location. 
-
+This is a budgetin app. This app allows you to make grocery list to specific or multiple locations. Also the user will be able to check reviews on locations before visiting along with getting directions before going. The app also includes a budgeting feature so the user can keep their spending habits in check.
 ### Features
 1. User Login: Users can login and create a personal account.
 
-2. Search: Users can search location,grocery list, and reviews by rating/text.
+2. Search: Users can search grocery list by text, category or location.
 
-3. Create Content: Users will be able to create grocery list and reviews.
+3. Create Content: Users will be able to create grocery list and expense reports.
 
-4. Location: You will be able to see where the location is located using GPS.
+4. GPS: You will be able to see where the location is located using GPS.
 
 ### Technologies
 1. Java
